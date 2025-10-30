@@ -3,7 +3,7 @@ import { defineConfig } from 'vite'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [],
-  base: '/homepage/',
+  base: '/02-website-project/',
   build: {
     outDir: 'dist'
   },
